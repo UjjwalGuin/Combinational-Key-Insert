@@ -1,0 +1,7 @@
+[3:0] BE_n
+[29:0] Address
+[31:0] Datao
+W_R_n
+D_C_n
+M_IO_n
+ADS_n
